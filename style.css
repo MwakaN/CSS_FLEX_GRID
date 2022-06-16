@@ -1,0 +1,90 @@
+
+  *{box-sizing: border-box;
+
+}
+
+  
+  .container {
+  display: flex;
+  justify-content: center;
+  height: 95vh;
+  width: 170vh;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3vh;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: rgba(175, 172, 172, 0.305);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: rgba(255, 255, 255, 0.789);
+  
+  
+  
+  }
+
+  .column1 {
+    padding-top: 5vh;
+    width: 35vh;
+    height: 60vh;
+    background-color: rgb(212, 140, 7);
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+  
+  }
+  .column2 {
+    padding-top: 5vh;
+    width: 35vh;
+    height: 60vh;
+    background-color: rgb(3, 114, 114);
+    padding-left: 4vh;
+    padding-right: 4vh;
+  
+  }
+  .column3 {
+    padding-top: 5vh;
+    width: 35vh;
+    height: 60vh;
+    background-color: rgb(10, 92, 87);
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+   
+  }
+
+img{
+size: smaller;
+}
+
+.button1{
+    border-radius: 20px;
+    width: 60%; 
+    color: orange; 
+    border-color: orange;
+    padding: 11px;
+    border: 1px solid;
+    font-weight: bold;
+}
+
+.button2{
+    border-radius: 20px;
+    width: 60%;
+    height: 100%;  
+    color: teal; 
+    border-color: teal;
+    padding: 11px;
+    border: 1px solid;
+    font-weight: bold;
+}
+.button3{
+    border-radius: 20px;
+    width: 60%;
+    height: 100%; 
+    color: rgb(2, 77, 73);
+    border-color: rgb(2, 77, 73);
+    padding: 11px;
+    border: 1px solid;
+    font-weight: bold;
+}
